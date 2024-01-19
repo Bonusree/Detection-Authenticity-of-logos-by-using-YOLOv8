@@ -7,7 +7,7 @@ import matplotlib
 import matplotlib.pyplot as plt
 #print(tk.TkVersion)
 
-results_path = './runs/classify/train3/results.csv'
+results_path = './runs/classify/train7/results.csv'
 
 results = pd.read_csv(results_path)
 
